@@ -19,7 +19,7 @@ config.android = {
 };
 
 config.git = {
-  content_repo: "https://github.com/IDEMSInternational/plh-facilitator-app-ug-content.git",
+  content_repo: "https://github.com/ParentingForLifelongHealth/plh-facilitator-app-ug-content.git",
   content_tag_latest: "1.0.1",
 };
 
